@@ -16,7 +16,7 @@
 
 
 
-
+| Category | Technologies |
 |----------|--------------|
 | Languages |  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)|
 | ML / DL | PyTorch, Scikit-learn, LSTM, CNN |
